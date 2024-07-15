@@ -32,7 +32,7 @@ This project focuses on analyzing datasets provided by Capital Bikeshare, a bike
 ## Key Highlights
 +  Conducted thorough data wrangling and data cleaning to ensure data quality and accuracy.
 * Performed exploratory data analysis (EDA) to uncover patterns, trends, and relationships within the dataset.
-*  Utilized machine learning algorithms to develop predictive models and gain deeper insights.
+*  Utilized machine learning algorithms to develop predictive models to forecast bike demand during rush hours, enhancing resource allocation and operational efficiency.
 *  Created visually appealing and informative geographical visualizations to better understand the data and consumer behavior.
 *  By applying these techniques, we gained valuable insights into bike usage patterns, user preferences, and other important factors that can drive business decisions for Capital Bikeshare.
 *  Several models were used ranging from Linear regression, Polynomial regression, Random Forest, etc. And evaluation metrics used for models were MSE and R2.
